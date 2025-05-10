@@ -2,6 +2,10 @@
 
 This repository contains the code and resources for the **HIE Grading Using Signal Processing and Deep Learning** paper. The project implements signal processing techniques combined with deep learning models for the automated grading of Hypoxic-Ischemic Encephalopathy (HIE).
 
+Paper can be found at:
+https://www.mdpi.com/1424-8220/25/10/3007
+
+
 ---
 
 ## Repository Structure
